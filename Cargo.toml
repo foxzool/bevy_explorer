@@ -1,0 +1,3 @@
+[workspace]
+members = ["rest", "monitor"]
+resolver = "2"
